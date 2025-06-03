@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <climits>
 using namespace std;
+// sum of two value
 using ll = long long;
 int main()
 {
