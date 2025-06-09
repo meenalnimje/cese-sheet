@@ -7,6 +7,10 @@
     "unordered_set": "cpp",
     "utility": "cpp",
     "algorithm": "cpp",
-    "queue": "cpp"
+    "queue": "cpp",
+    "map": "cpp",
+    "initializer_list": "cpp",
+    "xutility": "cpp",
+    "xstddef": "cpp"
   }
 }
