@@ -4,7 +4,7 @@
 #include <algorithm>
 using namespace std;
 using ll = long long;
-// nested ranges check
+// nested ranges checks
 int main()
 {
     int n;
@@ -22,7 +22,7 @@ int main()
 
     vector<ll> contains(n, 0);
     vector<ll> contained_by(n, 0);
-`
+
     // 1. Check "contains" -> sort by start descending, end ascending
     sort(arr.begin(), arr.end(), [](const pair<ll, ll> &a, const pair<ll, ll> &b)
          {
