@@ -11,6 +11,7 @@
     "map": "cpp",
     "initializer_list": "cpp",
     "xutility": "cpp",
-    "xstddef": "cpp"
+    "xstddef": "cpp",
+    "stack": "cpp"
   }
 }
