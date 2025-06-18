@@ -12,6 +12,8 @@
     "initializer_list": "cpp",
     "xutility": "cpp",
     "xstddef": "cpp",
-    "stack": "cpp"
+    "stack": "cpp",
+    "list": "cpp",
+    "xhash": "cpp"
   }
 }
