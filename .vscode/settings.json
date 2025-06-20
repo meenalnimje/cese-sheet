@@ -15,6 +15,7 @@
     "stack": "cpp",
     "list": "cpp",
     "xhash": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "xlocale": "cpp"
   }
 }
