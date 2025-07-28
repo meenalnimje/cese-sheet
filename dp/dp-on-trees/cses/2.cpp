@@ -29,7 +29,6 @@ void dfs(int node, unordered_map<int, list<int>> &adjlist, vector<vector<int>> &
     {
         if (it != parent)
         {
-            // child will be 0 and child ka child without_node-max() wala part hai
             withnode = max(withnode, 1 + dp[it][0] + without_node - max(dp[it][0], dp[it][1]));
         }
     }
